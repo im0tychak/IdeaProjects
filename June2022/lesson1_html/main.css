@@ -1,0 +1,33 @@
+html {
+    background-color: #775a02;
+    text-align: center;
+}
+h1 {
+    background: #544245;
+}
+
+h2 {
+    background: #504f9a;
+}
+
+p {
+    background: #0ddede;
+
+}
+
+ul {
+    background: #5d9f9f;
+}
+
+a {
+    width: 200px;
+}
+
+h1 + img {
+    width: 200px;
+}
+
+h2 + img {
+    width: 200px;
+}
+/
